@@ -1,6 +1,6 @@
-# Example file
-# Add more
+= Git In Practice
+## Chapter 1
+It is a truth universally known...
 
-
-# Try out a branch
-EXTRA
+## Chapter 2
+// TODO: write two chapters
